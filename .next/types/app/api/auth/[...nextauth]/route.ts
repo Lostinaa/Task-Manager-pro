@@ -1,4 +1,4 @@
-// File: /home/dopy/code/todo/app/api/auth/[...nextauth]/route.ts
+// File: /home/dopy/code/todo1/todo/app/api/auth/[...nextauth]/route.ts
 import * as entry from '../../../../../../app/api/auth/[...nextauth]/route.js'
 import type { NextRequest } from 'next/server.js'
 

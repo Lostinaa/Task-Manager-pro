@@ -1,4 +1,4 @@
-// File: /home/dopy/code/todo/app/to-dos/page.tsx
+// File: /home/dopy/code/todo1/todo/app/to-dos/page.tsx
 import * as entry from '../../../../app/to-dos/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

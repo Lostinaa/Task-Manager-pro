@@ -1,4 +1,4 @@
-// File: /home/dopy/code/todo/app/api/validate-user/route.ts
+// File: /home/dopy/code/todo1/todo/app/api/validate-user/route.ts
 import * as entry from '../../../../../app/api/validate-user/route.js'
 import type { NextRequest } from 'next/server.js'
 

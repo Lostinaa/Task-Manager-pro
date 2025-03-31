@@ -1,5 +1,9 @@
 {
   "/page": "app/page.js",
   "/to-dos/page": "app/to-dos/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/sign-up/page": "app/sign-up/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/validate-user/route": "app/api/validate-user/route.js",
   "/api/tasks/route": "app/api/tasks/route.js"
 }
