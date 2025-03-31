@@ -1,0 +1,5 @@
+{
+  "/page": "app/page.js",
+  "/to-dos/page": "app/to-dos/page.js",
+  "/api/tasks/route": "app/api/tasks/route.js"
+}
